@@ -1,15 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Pablo, a full-time frontend developer👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [React Projects](https://github.com/PabloInsG/react-app)  
   
 
-- 🌱 I’m currently learning React and Vue.js  
+- 🌱 I’m currently learning React and Vue.js
+
+
+- 👀 My [Portfolio](https://pabloinsg.github.io/)
   
 
 <br/>  
