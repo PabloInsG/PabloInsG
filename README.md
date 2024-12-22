@@ -62,7 +62,7 @@
 
 ### Testing e2e   
 <div align="center">  
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" alt="Cypress" height="50" /></a>  
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" alt="Cypress" height="50" /></a>  
 <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>  
 </div>
 </td></tr></table>  
